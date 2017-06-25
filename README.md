@@ -7,6 +7,10 @@ and learning.
 
 - :page_facing_up: - Whitepaper
 
+## Reading Materials
+
+- [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices) - A starting security baseline for intermediate Solidity programmers.
+
 ## Smart Contracts
 
 - [0x](https://github.com/0xProject/contracts) - An open protocol that facilitates trustless, low friction exchange of Ethereum-based assets. [:page_facing_up:](https://0xproject.com/pdfs/0x_white_paper.pdf "Whitepaper")
