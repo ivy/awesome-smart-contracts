@@ -10,3 +10,7 @@ and learning.
 ## Smart Contracts
 
 - [Bancor Protocol Contracts](https://github.com/bancorprotocol/contracts) - A built-in price discovery and liquidity mechanism for tokens on smart contract blockchains. [:page_facing_up:](https://www.bancor.network/whitepaper "Whitepaper")
+
+## Libraries
+
+- [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - A framework to build secure smart contracts on Ethereum.
