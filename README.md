@@ -22,6 +22,7 @@ and learning.
 
 ## Libraries
 
+- [ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet) - Allows multiple parties to agree on transactions before execution.
 - [ConsenSys/StandardBounties](https://github.com/ConsenSys/StandardBounties) - A set of standard contracts to be used as interfaces for any kind of bounty, either qualitative or quantitative in nature.
 - [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens) - Solidity smart contract code to issue simple, standards-compliant tokens on Ethereum. It can be used to create any form of asset, currency, coin, hours, usage tokens, vunk, etc.
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - A framework to build secure smart contracts on Ethereum. [:closed_lock_with_key:](https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/audit "Security Audits")
