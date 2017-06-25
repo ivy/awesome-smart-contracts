@@ -5,7 +5,8 @@ and learning.
 
 ## Legend
 
-- :page_facing_up: - Whitepaper
+- :closed_lock_with_key: - Security Audits
+- :page_facing_up: - Whitepapers
 
 ## Reading Materials
 
