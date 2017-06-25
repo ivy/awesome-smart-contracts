@@ -17,6 +17,7 @@ and learning.
 - [0x](https://github.com/0xProject/contracts) - An open protocol that facilitates trustless, low friction exchange of Ethereum-based assets. [:page_facing_up:](https://0xproject.com/pdfs/0x_white_paper.pdf "Whitepaper")
 - [Bancor](https://github.com/bancorprotocol/contracts) - A built-in price discovery and liquidity mechanism for tokens on smart contract blockchains. [:page_facing_up:](https://www.bancor.network/whitepaper "Whitepaper")
 - [Numeraire](https://github.com/numerai/contract) - An [ERC20](https://github.com/ethereum/EIPs/issues/20) token used for staking in Numerai's machine learning tournament to solve the stock market. [:closed_lock_with_key:](https://github.com/numerai/contract/blob/master/security_audit.pdf "Security Audit") [:page_facing_up:](https://numer.ai/whitepaper.pdf "Whitepaper")
+- [DigixDAO](https://github.com/DigixGlobal/digixdao-contracts) - A proof-of-asset protocol that utilizes Ethereum and IPFS to track an asset's existence without a centralized database. [:page_facing_up:](https://dgx.io/whitepaper.pdf "Whitepaper")
 
 ## Libraries
 
