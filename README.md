@@ -19,4 +19,5 @@ and learning.
 ## Libraries
 
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - A framework to build secure smart contracts on Ethereum.
+- [Solidity Standard Library](https://github.com/ethereum/solidity/tree/develop/std) - A proof-of-concept standard library that is included with Solidity itself.
 - [StandardBounties](https://github.com/ConsenSys/StandardBounties) - A set of standard contracts to be used as interfaces for any kind of bounty, either qualitative or quantitative in nature.
